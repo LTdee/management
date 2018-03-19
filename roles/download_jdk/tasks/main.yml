@@ -1,0 +1,3 @@
+tasks:
+   - name: Download Java
+     command: "wget -q -O {{java_archive}} --no-check-certificate --no-cookies --header 'Cookie: oraclelicense=accept-securebackup-coo$"
