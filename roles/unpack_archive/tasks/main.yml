@@ -1,0 +1,2 @@
+- name: Unpack Archive
+        command: "tar -zxf {{java_archive}} -C {{download_folder}} creates={{java_name}}"
